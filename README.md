@@ -1,7 +1,7 @@
 # Coffee-Sales-
 **ABOUT**
 
-This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. The goal of analyzing transaction data is to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiences. 
+This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. Analyzing transaction data aims to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. 
 
 **OBJECTIVE**
 
@@ -33,3 +33,6 @@ The main objective of this project is to analyze retail sales data to gain actio
 6. Which products are the best-selling in terms of quantity and revenue?
 
 7. How do sales vary by product category and type?
+
+To See Dashboard :
+![Screenshot 2024-07-29 074206](https://github.com/user-attachments/assets/4d92db5e-5d1b-4583-8340-ec4b03af356e)
