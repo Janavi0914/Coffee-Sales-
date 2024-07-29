@@ -34,5 +34,6 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 7. How do sales vary by product category and type?
 
-To See Dashboard :
-Click here[Screenshot 2024-07-29 074206](https://github.com/Janavi0914/Coffee-Sales-/blob/main/Screenshot%202024-07-29%20074206.png)
+**To See Dashboard :**
+
+Click here [Screenshot 2024-07-29 074206](https://github.com/Janavi0914/Coffee-Sales-/blob/main/Screenshot%202024-07-29%20074206.png)
