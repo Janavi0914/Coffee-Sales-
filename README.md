@@ -1,7 +1,7 @@
 # Coffee-Sales-
 **ABOUT**
 
-This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. Analyzing transaction data aims to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. 
+This project improves the coffee shop's analytical capabilities by utilizing an Excel dashboard for sales information. Analyzing transaction data aims to get important insights regarding customer behavior, product popularity, sales patterns, and operational efficiencies. The project uses datasets provided by [Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=coffee%20shop%20sale), focusing on key business metrics to drive data-driven decisions.
 
 **OBJECTIVE**
 
